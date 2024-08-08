@@ -11,11 +11,11 @@
 class Fibonacci {
     size_t cache[16];
     int cached;
-
+gra
 public:
     // TODO: 实现构造器
     // Fibonacci()
-
+a
     // TODO: 实现正确的缓存优化斐波那契计算
     size_t get(int i) {
         for (; false; ++cached) {
